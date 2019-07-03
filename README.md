@@ -1,3 +1,3 @@
 # Yusuf Adeyemo Portfolio Website
 
-Yusuf Adeyemo PortFolio
+Yusuf Adeyemo Portfolio Website
