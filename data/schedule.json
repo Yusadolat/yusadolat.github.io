@@ -1,152 +1,138 @@
-{
-  "status": "success",
-  "schedules": {
-    "monday": [
-      {
-        "5am – 6am": "Iri Owuro",
-        "6am – 6:20am": "News Bulletin",
-        "6:20am – 6:30am": "Iri Owuro (continued)",
-        "6:30am – 7:15am": "Newspaper Review",
-        "7:15am – 7:45am": "Traffic Report",
-        "7:45am – 8:45am": "Ogidi Iroyin",
-        "8:45am – 9am": "Agidigbo K’Oore Daale",
-        "9am – 11am": "Oro Re",
-        "11am – 11:10am": "News in Brief",
-        "11:10 am – 12pm": "O Unique",
-        "12pm – 1pm": "Sport News",
-        "2pm – 3pm": "Konbo Kii",
-        "3:30pm – 4pm": "Digging Deep",
-        "4pm – 4:20pm": "Political News",
-        "6:30pm – 7:30pm": "News Bulletin",
-        "7:30pm - 8:30pm": "News in Brief",
-        "8:30pm - 11 : 30pm": "News"
-      }
-    ],
-    "tuesday": [
-      {
-        "5am – 6am": "Iri Owuro",
-        "6am – 6:20am": "News Bulletin",
-        "6:20am – 6:30am": "Iri Owuro (continued)",
-        "6:30am – 7:15am": "Newspaper Review",
-        "7:15am – 7:45am": "Traffic Report",
-        "7:45am – 8:45am": "Ogidi Iroyin",
-        "8:45am – 9am": "Agidigbo K’Oore Daale",
-        "9am – 11am": "Oro Re",
-        "11am – 11:10am": "News in Brief",
-        "11:10 am – 12pm": "O Unique",
-        "12pm – 1pm": "Sport News",
-        "2pm – 3pm": "Konbo Kii",
-        "3:30pm – 4pm": "Digging Deep",
-        "4pm – 4:20pm": "Political News",
-        "6:30pm – 7:30pm": "News Bulletin",
-        "7:30pm - 8:30pm": "News in Brief",
-        "8:30pm - 11 : 30pm": "News"
-      }
-    ],
-    "Wednesday": [
-      {
-        "5am – 6am": "Iri Owuro",
-        "6am – 6:20am": "News Bulletin",
-        "6:20am – 6:30am": "Iri Owuro (continued)",
-        "6:30am – 7:15am": "Newspaper Review",
-        "7:15am – 7:45am": "Traffic Report",
-        "7:45am – 8:45am": "Ogidi Iroyin",
-        "8:45am – 9am": "Agidigbo K’Oore Daale",
-        "9am – 11am": "Oro Re",
-        "11am – 11:10am": "News in Brief",
-        "11:10 am – 12pm": "O Unique",
-        "12pm – 1pm": "Sport News",
-        "2pm – 3pm": "Konbo Kii",
-        "3:30pm – 4pm": "Digging Deep",
-        "4pm – 4:20pm": "Political News",
-        "6:30pm – 7:30pm": "News Bulletin",
-        "7:30pm - 8:30pm": "News in Brief",
-        "8:30pm - 11 : 30pm": "News"
-      }
-    ],
-    "thursday": [
-      {
-        "5am – 6am": "Iri Owuro",
-        "6am – 6:20am": "News Bulletin",
-        "6:20am – 6:30am": "Iri Owuro (continued)",
-        "6:30am – 7:15am": "Newspaper Review",
-        "7:15am – 7:45am": "Traffic Report",
-        "7:45am – 8:45am": "Ogidi Iroyin",
-        "8:45am – 9am": "Agidigbo K’Oore Daale",
-        "9am – 11am": "Oro Re",
-        "11am – 11:10am": "News in Brief",
-        "11:10 am – 12pm": "O Unique",
-        "12pm – 1pm": "Sport News",
-        "2pm – 3pm": "Konbo Kii",
-        "3:30pm – 4pm": "Digging Deep",
-        "4pm – 4:20pm": "Political News",
-        "6:30pm – 7:30pm": "News Bulletin",
-        "7:30pm - 8:30pm": "News in Brief",
-        "8:30pm - 11 : 30pm": "News"
-      }
-    ],
-    "friday": [
-      {
-        "5am – 6am": "Iri Owuro",
-        "6am – 6:20am": "News Bulletin",
-        "6:20am – 6:30am": "Iri Owuro (continued)",
-        "6:30am – 7:15am": "Newspaper Review",
-        "7:15am – 7:45am": "Traffic Report",
-        "7:45am – 8:45am": "Ogidi Iroyin",
-        "8:45am – 9am": "Agidigbo K’Oore Daale",
-        "9am – 11am": "Oro Re",
-        "11am – 11:10am": "News in Brief",
-        "11:10 am – 12pm": "O Unique",
-        "12pm – 1pm": "Sport News",
-        "2pm – 3pm": "Konbo Kii",
-        "3:30pm – 4pm": "Digging Deep",
-        "4pm – 4:20pm": "Political News",
-        "6:30pm – 7:30pm": "News Bulletin",
-        "7:30pm - 8:30pm": "News in Brief",
-        "8:30pm - 11 : 30pm": "News"
-      }
-    ],
-    "saturday": [
-      {
-        "5am – 6am": "Iri Owuro",
-        "6am – 6:20am": "News Bulletin",
-        "6:20am – 6:30am": "Iri Owuro (continued)",
-        "6:30am – 7:15am": "Newspaper Review",
-        "7:15am – 7:45am": "Traffic Report",
-        "7:45am – 8:45am": "Ogidi Iroyin",
-        "8:45am – 9am": "Agidigbo K’Oore Daale",
-        "9am – 11am": "Oro Re",
-        "11am – 11:10am": "News in Brief",
-        "11:10 am – 12pm": "O Unique",
-        "12pm – 1pm": "Sport News",
-        "2pm – 3pm": "Konbo Kii",
-        "3:30pm – 4pm": "Digging Deep",
-        "4pm – 4:20pm": "Political News",
-        "6:30pm – 7:30pm": "News Bulletin",
-        "7:30pm - 8:30pm": "News in Brief",
-        "8:30pm - 11 : 30pm": "News"
-      }
-    ],
-    "sunday": [
-      {
-        "5am – 6am": "Iri Owuro",
-        "6am – 6:20am": "News Bulletin",
-        "6:20am – 6:30am": "Iri Owuro (continued)",
-        "6:30am – 7:15am": "Newspaper Review",
-        "7:15am – 7:45am": "Traffic Report",
-        "7:45am – 8:45am": "Ogidi Iroyin",
-        "8:45am – 9am": "Agidigbo K’Oore Daale",
-        "9am – 11am": "Oro Re",
-        "11am – 11:10am": "News in Brief",
-        "11:10 am – 12pm": "O Unique",
-        "12pm – 1pm": "Sport News",
-        "2pm – 3pm": "Konbo Kii",
-        "3:30pm – 4pm": "Digging Deep",
-        "4pm – 4:20pm": "Political News",
-        "6:30pm – 7:30pm": "News Bulletin",
-        "7:30pm - 8:30pm": "News in Brief",
-        "8:30pm - 11 : 30pm": "News"
-      }
-    ]
+[
+  {
+    "id": 1,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl”": "url_to_image",
+    "title": "Iri Owuro",
+    "time": "5am – 6am"
+  },
+  {
+    "id": 2,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "News Bulletin",
+    "time": "6am – 6:20am"
+  },
+  {
+    "id": 3,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Iri Owuro",
+    "time": "6:20am – 6:30am"
+  },
+  {
+    "id": 4,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Newspaper Review",
+    "time": "6:30am – 7:15am"
+  },
+  {
+    "id": 5,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Newspaper Review",
+    "time": "6:30am – 7:15am"
+  },
+  {
+    "id": 6,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "7:45am – 8:45am"
+  },
+  {
+    "id": 7,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "8:45am – 9am"
+  },
+  {
+    "id": 8,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "9am – 11am"
+  },
+  {
+    "id": 9,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "11am – 11:10am"
+  },
+  {
+    "id": 10,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "11:10 am – 12pm"
+  },
+  {
+    "id": 11,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "12pm – 1pm"
+  },
+  {
+    "id": 12,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "2pm – 3pm"
+  },
+  {
+    "id": 13,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "3:30pm – 4pm"
+  },
+  {
+    "id": 14,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "4pm – 4:20pm"
+  },
+  {
+    "id": 15,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "6:30pm – 7:30pm"
+  },
+  {
+    "id": 16,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "7:30pm - 8:30pm"
+  },
+  {
+    "id": 17,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "8:30pm - 11 : 30pm"
   }
-}
+]
