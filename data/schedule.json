@@ -372,5 +372,192 @@
     "hour": 8,
     "minute": "30",
     "daytime": "pm"
+  },
+  {
+    "id": 34,
+    "day": "wednesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Iri Owuro",
+    "time": "5am – 6:00am",
+    "hour": 5,
+    "minute": "00",
+    "daytime": "am"
+  },
+  {
+    "id": 19,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "News Bulletin",
+    "time": "6am – 6:20am",
+    "hour": 6,
+    "minute": "00",
+    "daytime": "am"
+  },
+  {
+    "id": 20,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Iri Owuro",
+    "time": "6:20am – 6:30am",
+    "hour": 6,
+    "minute": "20",
+    "daytime": "am"
+  },
+  {
+    "id": 21,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Newspaper Review",
+    "time": "6:30am – 7:15am",
+    "hour": 6,
+    "minute": "30",
+    "daytime": "am"
+  },
+  {
+    "id": 22,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Newspaper Review",
+    "time": "6:30am – 7:15am",
+    "hour": 6,
+    "minute": "00",
+    "daytime": "am"
+  },
+  {
+    "id": 23,
+    "day": "tueday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "7:45am – 8:45am",
+    "hour": 7,
+    "minute": "45",
+    "daytime": "am"
+  },
+  {
+    "id": 24,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "8:45am – 9am",
+    "hour": 8,
+    "minute": "45",
+    "daytime": "am"
+  },
+  {
+    "id": 25,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "9am – 11am",
+    "hour": 9,
+    "minute": "00",
+    "daytime": "am"
+  },
+  {
+    "id": 26,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "11am – 11:10am",
+    "hour": 11,
+    "minute": "00",
+    "daytime": "am"
+  },
+  {
+    "id": 27,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "11:10 am – 12pm",
+    "hour": 11,
+    "minute": "00",
+    "daytime": "am"
+  },
+  {
+    "id": 28,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "12pm – 1pm",
+    "hour": 12,
+    "minute": "00",
+    "daytime": "pm"
+  },
+  {
+    "id": 29,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "2pm – 3pm",
+    "hour": 2,
+    "minute": "00",
+    "daytime": "pm"
+  },
+  {
+    "id": 30,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "3:30pm – 4pm",
+    "hour": 3,
+    "minute": "30",
+    "daytime": "pm"
+  },
+  {
+    "id": 31,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "4pm – 4:20pm",
+    "hour": 4,
+    "minute": "00",
+    "daytime": "pm"
+  },
+  {
+    "id": 32,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "6:30pm – 7:30pm",
+    "hour": 6,
+    "minute": "30",
+    "daytime": "pm"
+  },
+  {
+    "id": 33,
+    "day": "monday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "7:30pm - 8:30pm",
+    "hour": 7,
+    "minute": "30",
+    "daytime": "pm"
+  },
+  {
+    "id": 34,
+    "day": "tuesday",
+    "anchor": "Mujaheed Yusuf",
+    "programCaptionUrl": "url_to_image",
+    "title": "Ogidi Iroyin",
+    "time": "8:30pm - 11 : 30pm",
+    "hour": 8,
+    "minute": "30",
+    "daytime": "pm"
   }
 ]
